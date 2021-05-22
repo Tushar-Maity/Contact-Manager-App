@@ -16,7 +16,7 @@ class AddContact extends React.Component {
                        <input type="text" name="email" placeholder="E-Mail" />
                     </div>
                     <Button variant="contained" color="secondary">
-                    Secondary
+                    Add Contact
                     </Button>
                 </form>
             </div>
